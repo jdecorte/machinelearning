@@ -27,14 +27,17 @@
     "\n",
     "## Table of Contents\n",
     "1. [Introduction](001-Introduction.pdf)\n",
-    "1. [The Machine Learning Landscape]\n",
-    "    1. [Slides](010-The Machine Learning Landscape.pdf)  \n",
-    "    1. [Notebook](blob/main/011-The Machine Learning Landscape.ipynb)\n",
-    "    1. [Project Musti](012-Project Musti.pdf)\n",
+    "1. The Machine Learning Landscape\n",
+    "    1. [Slides](010-The_Machine_Learning_Landscape.pdf)  \n",
+    "    1. [Notebook](011-The_Machine_Learning_Landscape.ipynb)\n",
+    "    1. [Project Musti](012-Project_Musti.pdf)\n",
     "    1. [Numpy](013-NumPy_Introduction.ipynb)\n",
     "    1. [Pandas](014-Pandas_Matplotlib_Introduction_Case_Corona.ipynb)\n",
-    "1. [End-toEnd Machine Learning Project](notebooks/2_End2End_ML_project.ipynb)  \n",
-    "1. [Classification](notebooks/3_Classification.ipynb)\n"
+    "1. End-toEnd Machine Learning Project\n",
+    "    1. [Notebook](notebooks/2_End2End_ML_project.ipynb)  \n",
+    "    1. [Excericse]()\n",
+    "1. Classification\n",
+    "    1. [Notebook]()\n"
    ]
   }
  ],
